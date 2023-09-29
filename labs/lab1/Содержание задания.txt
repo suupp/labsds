@@ -1,0 +1,4 @@
+lab-1-pandas.ipynb - текст задания (jupyter notebook)
+data.csv - данные
+DataDictionary-ru.txt - смысл столбцов матрицы data.csv
+data_full.csv - полный файл с данными
